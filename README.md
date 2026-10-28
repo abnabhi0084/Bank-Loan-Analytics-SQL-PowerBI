@@ -36,7 +36,7 @@ The dataset already contains an A–G credit-grade system. The analysis does not
 
 **Main question:** *What does the overall loan portfolio look like, and how do recorded outcomes and lending activity break down?*
 
-![Portfolio Overview](Dashboard  screenshots/Dashboard 1.png)
+![Portfolio Overview](<Dashboard screenshots/Dashboard 1.png>)
 
 **Included visuals and KPIs**
 - Total Loans, Funded Amount (modeled as `SUM(loan_amount)`), Average Loan Amount, Fully Paid Rate, and Charge-Off Rate.
