@@ -241,8 +241,7 @@ Bank-Loan-Analytics/
 - The 60-month group contains all Current loans in the dataset. Comparisons should disclose the denominator and consider differences in follow-up/maturity.
 - Some state or purpose segments have small counts. Interpret rate extremes alongside volume and amount.
 - The raw CSV includes `total_payment`, but the current fact-table creation script does not select it into `analytics.Fact_Loan`; therefore the current report does not claim to show Total Amount Received. That measure would require an updated fact table/model and validation.
-- The available dates cover 2021 only. Multi-year vintage analysis requires additional years of records.
-- The input package did not include a clear dataset source URL or redistribution license. **Before making a public GitHub repository, verify that the source permits redistribution of the CSV.** If permission is unclear, remove the raw CSV from the public repository and document how authorized users can obtain it.
+
 
 
 ## Deliverables
