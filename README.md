@@ -36,7 +36,7 @@ The dataset already contains an A–G credit-grade system. The analysis does not
 
 **Main question:** *What does the overall loan portfolio look like, and how do recorded outcomes and lending activity break down?*
 
-![Portfolio Overview](Dashboard%20screenshots/Dashboard%201.png)
+![Portfolio Overview](./Dashboard%20screenshots/Dashboard%201.png)
 
 **Included visuals and KPIs**
 - Total Loans, Funded Amount (modeled as `SUM(loan_amount)`), Average Loan Amount, Fully Paid Rate, and Charge-Off Rate.
@@ -56,7 +56,7 @@ The dataset already contains an A–G credit-grade system. The analysis does not
 
 **Main question:** *Which credit grades, loan purposes, and loan terms show higher historical charge-off rates, and how much lending exposure is associated with those segments?*
 
-![Credit Risk Analysis](Dashboard%20screenshots/Dashboard%202.png)
+![Credit Risk Analysis](./Dashboard%20screenshots/Dashboard%202.png)
 
 **Included visuals and KPIs**
 - Charged-Off Loans, Charged-Off Amount, Average Loan Amount of Charged-Off Loans, and Charge-Off Rate.
@@ -75,7 +75,7 @@ The dataset already contains an A–G credit-grade system. The analysis does not
 
 **Main question:** *Where is lending concentrated, and which states combine material exposure with higher observed charge-off rates?*
 
-![Geographic Exposure](Dashboard%20screenshots/Dashboard%203.png)
+![Geographic Exposure](./Dashboard%20screenshots/Dashboard%203.png)
 
 **Included visuals and KPIs**
 - Geographies Represented, Total Loans, Funded Amount, and Charge-Off Rate.
